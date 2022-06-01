@@ -1,0 +1,13 @@
+console.log(Math.E);
+console.log(Math.PI);
+console.log(Math.abs(-5));
+console.log(Math.ceil(2.1));
+console.log(Math.floor(2.1));
+console.log(Math.pow(2,4));
+console.log(Math.random());
+console.log(Math.round(Math.random()*9));
+console.log(Math.round(4.4));
+console.log(Math.sign(-8));
+console.log(Math.sign(0));
+console.log(Math.sign(8));
+console.log(Math.sqrt(9));
